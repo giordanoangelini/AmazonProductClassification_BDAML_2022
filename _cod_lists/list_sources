@@ -1,0 +1,26 @@
+{
+    "datasets/amazon_completo_100000_5_10.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    },
+    "datasets/amazon_completo_100000_5_100.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    },
+    "datasets/amazon_completo_100000_5_1000.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    },
+    "datasets/amazon_completo_100000_5_3.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    },
+    "datasets/amazon_completo_100000_5_50.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    },
+    "datasets/amazon_completo_100000_5_500.csv": {
+        "num_columns": 18,
+        "num_rows": 99999
+    }
+}
